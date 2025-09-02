@@ -20,7 +20,7 @@ for folder in ['data', 'receipts_in', 'receipts_out']:
 class ScrapShopApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("โปรแกรมคำนวณรับซื้อและจำหน่ายของเก่า V6.1")
+        self.root.title("โปรแกรมคำนวณรับซื้อและจำหน่ายของเก่า V6.2")
         self.root.state("zoomed")
 
         # --- CustomTkinter Style ---
